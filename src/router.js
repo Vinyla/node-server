@@ -1,7 +1,6 @@
 import { root, text, html } from './controller';
 import { log, checkSize } from './middlewares';
 
-// Router function with requests
 const router = (app) => {
   app.get('/', log, root);
 

@@ -1,4 +1,3 @@
-// Functions for creating routes with response from my server
 const root = (req, res) => {
   res.end('Hello Node Server, how are you?');
 };
