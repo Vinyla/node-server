@@ -17,7 +17,7 @@ node-server is a very simple Node.js app
 * body-parser -- version: 1.19.0
 * helmet -- version: 4.5.0
 
-# third party-party plug-ins
+# third-party plug-ins
 * nodemon -- Development Tool version: 2.0.7
 * webpack -- Static Module Bundler version: 5.34.0
 * webpack-cli -- version: 4.6.0
