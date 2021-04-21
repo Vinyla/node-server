@@ -3,7 +3,7 @@ My First [Node.js](https://github.com/nodejs/node) Server
 
 In node-server project ..
 
-## How to start node-server app
+## How to run node-server app
 
 1. git clone https://github.com/Vinyla/node-server
 2. cd node-server
