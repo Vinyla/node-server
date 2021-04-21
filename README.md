@@ -20,9 +20,10 @@ node-server is a very simple Node.js app
 
 ## third-party plug-ins
 * [webpack](https://webpack.js.org/) -- Static Module Bundler version: 5.34.0
-* webpack-cli -- version: 4.6.0
-* webpack-node-externals -- version: 2.5.2
-* babel-core -- JavaScript Compiler version: 6.26.3
-* babel-loader -- version: 7.1.5
-* babel-preset-env -- version: 1.7.0
-* babel-preset-stage-2 --version: 6.24.1
+  - webpack-cli -- version: 4.6.0
+  - webpack-node-externals -- version: 2.5.2
+* [Babel](https://babeljs.io/docs/en/) -- JavaScript Compiler
+  - babel-core -- version: 6.26.3
+  - babel-loader -- version: 7.1.5
+  - babel-preset-env -- version: 1.7.0
+  - babel-preset-stage-2 --version: 6.24.1
