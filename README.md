@@ -11,7 +11,7 @@ In node-server project ..
 4. npm start
 
 ## Libraries, npm packages and third-party plug-ins
-* [express](http://expressjs.com/) -- version: 4.17.1
+* [express](http://expressjs.com/) -- Web Feamework for Node.js version: 4.17.1
 * [nodemon](https://nodemon.io/) -- version: 2.0.7
 * [body-parser](https://www.npmjs.com/package/body-parser) -- version: 1.19.0
 * [helmet](https://www.npmjs.com/package/helmet) -- version: 4.5.0
