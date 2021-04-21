@@ -14,12 +14,12 @@ node-server is a very simple Node.js app
 * [express](http://expressjs.com/) -- version: 4.17.1
 
 ## npm packages
-* nodemon -- version: 2.0.7
-* body-parser -- version: 1.19.0
-* helmet -- version: 4.5.0
+* [nodemon](https://nodemon.io/) -- version: 2.0.7
+* [body-parser](https://www.npmjs.com/package/body-parser) -- version: 1.19.0
+* [helmet](https://www.npmjs.com/package/helmet) -- version: 4.5.0
 
 ## third-party plug-ins
-* webpack -- Static Module Bundler version: 5.34.0
+* [webpack](https://webpack.js.org/) -- Static Module Bundler version: 5.34.0
 * webpack-cli -- version: 4.6.0
 * webpack-node-externals -- version: 2.5.2
 * babel-core -- JavaScript Compiler version: 6.26.3
