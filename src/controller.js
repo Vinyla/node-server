@@ -1,5 +1,5 @@
 const root = (req, res) => {
-  res.end('Hello Node Server, how are you?');
+  res.end('Welcome to my Node Server!');
 };
 
 const text = (req, res) => {
