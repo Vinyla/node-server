@@ -11,7 +11,7 @@ node-server is a very simple Node.js app
 4. npm start
 
 ## Libraries
-* express -- version: 4.17.1
+* [express](http://expressjs.com/) -- version: 4.17.1
 
 ## npm packages
 * nodemon -- version: 2.0.7
