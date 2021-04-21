@@ -1,7 +1,7 @@
 # node-server
 My First NodeJS Server
 
-node-server is a very simple Node.js app
+node-server is a very simple [Node.js](https://github.com/nodejs/node) app
 
 ## How to start node-server app
 
