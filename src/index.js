@@ -1,7 +1,5 @@
 import express from 'express';
 import router from './router';
-import helmet from 'helmet';
-import bodyParser from 'body-parser';
 
 const PORT = 5000;
 
