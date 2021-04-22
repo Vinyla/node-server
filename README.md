@@ -1,8 +1,6 @@
 # node-server
 My First [Node.js](https://github.com/nodejs/node) Server
 
-In node-server project ..
-
 ## How to run node-server app
 
 1. git clone https://github.com/Vinyla/node-server
